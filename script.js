@@ -9,11 +9,11 @@
 const CONFIG = {
   // Paste the Google Apps Script web-app URL here (it ends in /exec).
   // While this still contains "PASTE", the page runs in DEMO MODE: nothing is saved.
-  APPS_SCRIPT_URL: "PASTE_YOUR_APPS_SCRIPT_WEB_APP_URL_HERE",
+  APPS_SCRIPT_URL: "https://script.google.com/macros/s/AKfycbx2kfE9vgZfyZDtWkyCucZfrySr8eQ3jC7YH_olZhKpkBX1UDnLIzq32P8YREMTDfcqVw/exec",
 
   // Change this for each new class or section. It keeps local drafts from
   // different sessions apart and is stored with every row in the sheet.
-  EXERCISE_ID: "RD-SIMPLE-2026",
+  EXERCISE_ID: "RD-2026-FSA",
 
   // Letters students may type (Company A ... Company T).
   VALID_LETTERS: "ABCDEFGHIJKLMNOPQRST",
